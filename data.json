@@ -1,0 +1,34 @@
+{
+    "hotel":[
+        {
+            "img":"images/img_1.jpg",
+            "name":"Single Room",
+            "press":"90$"
+        }, 
+        {
+            "img":"images/img_2.jpg",
+            "name":"Family Room",
+            "press":"50$"
+        },
+        {
+            "img":"images/img_3.jpg",
+            "name":"Presidential Room",
+            "press":"150$"
+        }, 
+        {
+            "img":"images/slider-4.jpg",
+            "name":"Lorem ipsum dolor",
+            "press":"75$"
+        }, 
+        {
+            "img":"images/slider-6.jpg",
+            "name":"sit amet consectetur",
+            "press":"110$"
+        }, 
+        {
+            "img":"images/slider-7.jpg",
+            "name":" adipisicing elit Voluptatum",
+            "press":"200$"
+        }
+    ]
+}
